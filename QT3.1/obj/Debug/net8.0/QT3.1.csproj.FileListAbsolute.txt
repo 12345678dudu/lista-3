@@ -1,0 +1,14 @@
+C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercecio  3\qt3.1\buid\QT3.1.exe
+C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercecio  3\qt3.1\buid\QT3.1.deps.json
+C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercecio  3\qt3.1\buid\QT3.1.runtimeconfig.json
+C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercecio  3\qt3.1\buid\QT3.1.dll
+C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercecio  3\qt3.1\buid\QT3.1.pdb
+C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercecio  3\qt3.1\obj\Debug\net8.0\QT3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercecio  3\qt3.1\obj\Debug\net8.0\QT3.1.AssemblyInfoInputs.cache
+C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercecio  3\qt3.1\obj\Debug\net8.0\QT3.1.AssemblyInfo.cs
+C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercecio  3\qt3.1\obj\Debug\net8.0\QT3.1.csproj.CoreCompileInputs.cache
+C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercecio  3\qt3.1\obj\Debug\net8.0\QT3.1.dll
+C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercecio  3\qt3.1\obj\Debug\net8.0\refint\QT3.1.dll
+C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercecio  3\qt3.1\obj\Debug\net8.0\QT3.1.pdb
+C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercecio  3\qt3.1\obj\Debug\net8.0\QT3.1.genruntimeconfig.cache
+C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercecio  3\qt3.1\obj\Debug\net8.0\ref\QT3.1.dll
